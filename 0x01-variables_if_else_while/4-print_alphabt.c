@@ -10,7 +10,7 @@ int main(void)
 char alpha = 'A';
 for (; alpha <= 90 ; alpha++)
 {
-if (alpha != 69 && alpha!= 81)
+if (alpha != 69 && alpha != 81)
 {
 char i = alpha + 32;
 putchar(i); /* adding cahr to stdout */
