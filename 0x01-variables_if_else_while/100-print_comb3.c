@@ -11,13 +11,13 @@ int i;
 int y;
 for (i = 48; i < 57; i++)
 {
-for( y = 49; y <= 57; y++)
+for (y = 49; y <= 57; y++)
 {
-if(i != y && y > i)
+if (i != y && y > i)
 {
 putchar(i);
 putchar(y);
-if(i != 56 && y != 58)
+if (i != 56 && y != 58)
 {
 putchar(',');
 putchar(' ');
