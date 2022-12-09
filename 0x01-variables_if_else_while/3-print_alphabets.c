@@ -13,7 +13,7 @@ for (; alpha <= 90; alpha++)
 char i = alpha + 32;
 putchar(i); /* adding cahr to stdout */
 }
-for ( ; alpha <=116  ; alpha++)
+for ( ; alpha <= 116  ; alpha++)
 {
 char y = alpha - 26;
 putchar(y);
