@@ -3,7 +3,7 @@
 /**
  *main - Prints a random character.
  *
- *Returns: _putchar on stdout
+ *Return: _putchar on stdout
  */
 int main(void)
 {
