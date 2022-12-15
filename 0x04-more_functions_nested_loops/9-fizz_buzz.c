@@ -6,7 +6,7 @@
  *    *        Buzz, and for multiples of both three and five, FizzBuzz.
  *     *
  *      * Return: Always 0.
- *       */
+ */
 int main(void)
 {
 int num;
