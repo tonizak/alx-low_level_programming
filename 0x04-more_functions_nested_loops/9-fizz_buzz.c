@@ -18,7 +18,7 @@ printf("Buzz ");
 else if ( i != 100)
 printf("%d ", i);
 else
-pritnf("%d", i);
+printf("%d", i);
 }
 printf("\n");
 return (0);
