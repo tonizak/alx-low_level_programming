@@ -1,8 +1,8 @@
 /**
- * swap_int - swap two integers with each other
- * *a@ pointer to first int
- * *b@ pointer to second int
- * return: always 0
+ * swap_int - swaps the values of a and b
+ * @a: pointer 1
+ * @b: pointer 2
+ * Return; 0
  */
 
 void swap_int(int *a, int *b)

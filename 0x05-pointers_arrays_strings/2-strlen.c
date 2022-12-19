@@ -1,7 +1,8 @@
 /**
- * _strlen - returns the lenth of a string
- * *s@ string passed
- * return: 0
+ * _strlen - checks the length of a string
+ * @s: string to check
+ *
+ * Return: int length of the string
  */
 
 int _strlen(char *s)
